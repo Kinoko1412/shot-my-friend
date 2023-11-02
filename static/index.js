@@ -325,11 +325,11 @@
         if (deviation_time > 23000) {
             return '倒計時多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
         }
-        if (score <= 49) return '遜欸';
-        if (score <= 99) return '哼哼哼';
-        if (score <= 149) return '你是一個一個一個';
-        if (score <= 199) return '哼哼哼啊啊啊啊啊';
-        return '都撅爛了罷（惱';
+        if (score <= 49) return '你只是個小小光';
+        if (score <= 99) return '看來變成了小光';
+        if (score <= 149) return '現在是個中光';
+        if (score <= 199) return '完了 變大光了';
+        return '這就是我的 邪王真眼';
     }
 
     w.toStr = function(obj) {
