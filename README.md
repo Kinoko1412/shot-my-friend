@@ -5,3 +5,4 @@
 我們必須收集他們把小光拼回來
 玩法
 點擊小光
+link: https://kinoko1412.github.io/shot-my-friend
